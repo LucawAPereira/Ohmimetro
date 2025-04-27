@@ -17,4 +17,4 @@ Calcular o valor da resistência desconhecida em um intervalo de 510Ω até 100k
 
 # Link do vídeo demonstrando o funcionamento
 
-Youtube:
+Youtube: https://www.youtube.com/watch?v=Md5V0xkD-JY
