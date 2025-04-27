@@ -19,7 +19,7 @@ ssd1306_t ssd;
 char Rx_display[6];
 char E24Rx_display[6];
 int Rc = 10000; // resistor conhecido
-int leitura_adc=0, Rx=0, media=0, amostras=50; // Rx= resistor desconhecido
+int leitura_adc=0, Rx=0, media=0, amostras=10000; // Rx= resistor desconhecido
 
 double valor_comercial_mais_proximo(double valor); // valor comercial E24
 
